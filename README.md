@@ -1,5 +1,11 @@
 # 🚗 Vehicle Insurance Customer Analytics Dashboard
 
+# 📸 Dashboard Preview
+
+> ![alt text](sample/image.png)
+
+---
+
 ## 📌 Project Overview
 
 This project analyzes a vehicle insurance customer dataset using **MySQL** for data preparation and **Tableau** for interactive dashboard creation.
@@ -322,12 +328,6 @@ GROUP BY
 * Develop predictive models for customer response.
 * Deploy the dashboard using Tableau Public.
 * Integrate real-time data pipelines.
-
----
-
-# 📸 Dashboard Preview
-
-> ![alt text](sample/image.png)
 
 ---
 
