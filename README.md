@@ -1,12 +1,12 @@
-# 🚗 Vehicle Insurance Customer Analytics Dashboard
+# Vehicle Insurance Customer Analytics Dashboard
 
-# 📸 Dashboard Preview
+# Dashboard Preview
 
 > ![alt text](sample/image.png)
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This project analyzes a vehicle insurance customer dataset using **MySQL** for data preparation and **Tableau** for interactive dashboard creation.
 
@@ -20,7 +20,7 @@ The objective is to transform raw customer data into meaningful business insight
 
 ---
 
-# 🛠️ Tech Stack
+# Tech Stack
 
 * **Python** – Data cleaning and preprocessing
 * **Pandas** – Data manipulation
@@ -29,7 +29,7 @@ The objective is to transform raw customer data into meaningful business insight
 
 ---
 
-# 📂 Dataset
+# Dataset
 
 The dataset contains customer information from a vehicle insurance company, including:
 
@@ -51,7 +51,7 @@ The dataset contains customer information from a vehicle insurance company, incl
 
 ---
 
-# 📊 Dashboard Features
+# Dashboard Features
 
 The Tableau dashboard provides an executive overview through:
 
@@ -65,7 +65,7 @@ The Tableau dashboard provides an executive overview through:
 
 ---
 
-# 📈 Key Visualizations
+# Key Visualizations
 
 ## 1. Executive KPI Cards
 
@@ -156,7 +156,7 @@ Explores whether customer income has any relationship with long-term customer va
 
 ---
 
-# 🗄️ SQL Views Used
+# SQL Views Used
 
 The project uses four SQL Views to simplify analysis and improve Tableau performance.
 
@@ -311,7 +311,7 @@ GROUP BY
 
 ---
 
-# 💡 Business Insights
+# Business Insights
 
 * Marketing performance varies significantly across different sales channels.
 * Customer Lifetime Value differs across vehicle classes.
@@ -321,7 +321,7 @@ GROUP BY
 
 ---
 
-# 🚀 Future Improvements
+# Future Improvements
 
 * Add geographical analysis using maps.
 * Build customer retention and churn analysis.
@@ -329,10 +329,4 @@ GROUP BY
 * Deploy the dashboard using Tableau Public.
 * Integrate real-time data pipelines.
 
----
 
-# 👤 Author
-
-**Ankit Kumar**
-
-Aspiring Data Analyst | SQL | Python | Tableau | Power BI
